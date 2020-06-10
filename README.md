@@ -3,8 +3,8 @@ Open Repo for the purpose of learning JavaScript, and creating an online resourc
 
 
 Resources:
-Learn to use Github (Create and merge branches): Github URL @: https://guides.github.com/activities/hello-world/
-Run Javascript on VSCode (Need to download and install Node.js): https://www.youtube.com/watch?v=DsH-fizHkcY
+* Learn to use Github (Create and merge branches): Github URL @: https://guides.github.com/activities/hello-world/
+* Run Javascript on VSCode (Need to download and install Node.js): https://www.youtube.com/watch?v=DsH-fizHkcY
 
 
 Helpful hints:
@@ -14,5 +14,6 @@ Helpful hints:
 
 
 Achievements:
-1: Create GitHub, create repo
-2: 
+* Create GitHub, create repos
+*  ...
+* ...
