@@ -6,6 +6,7 @@ Resources:
 * Learn to use Github (Create and merge branches): Github URL @: https://guides.github.com/activities/hello-world/
 * Run Javascript on VSCode (Need to download and install Node.js): https://www.youtube.com/watch?v=DsH-fizHkcY
 * Open-Source n00b projects for more exp! https://www.firsttimersonly.com/
+* Questions? Use https://stackoverflow.com/
 
 
 Helpful hints:
